@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	You can check the status of the staging area to ensure that all the files in there are the ones you want to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you are trying different features/versions that you might not keep or are interested in experiementing on a larger scale, creating a branch would maintain the original version and you can rest assured that you won't lose what had been the original.
